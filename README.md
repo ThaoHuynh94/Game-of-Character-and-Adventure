@@ -1,42 +1,18 @@
 # Game of Character and Adventure
 
-## Description
+This project is a simple text-based adventure game implemented in C++. Players control a character that can explore various locations, interact with NPCs (non-player characters), and complete quests. The game showcases core object-oriented programming (OOP) principles such as inheritance, polymorphism, and encapsulation.
 
-This project is a **text-based adventure game** written in C++. The player controls a character who can navigate through different rooms, interact with NPCs, and complete quests. The game is built using **object-oriented programming** principles and features a flexible design to allow easy additions and modifications.
+## Features
+- **Character Class**: The base class for creating player and NPC characters.
+- **Rogue, Knight, Wizard**: Different character types, each with unique abilities and attributes.
+- **Monster**: Represents hostile creatures the player can encounter.
+- **Gameplay**: Basic interaction between the player character and NPCs, with quests and combat elements.
+- **Object-Oriented Design**: Uses OOP principles like inheritance and polymorphism to structure the game.
 
-## Features:
-- **Character Creation**: Customize your character's name, attributes, and inventory.
-- **Room Navigation**: Move between different rooms in the game world.
-- **NPC Interaction**: Interact with NPCs to learn about quests and complete them.
-- **Inventory Management**: Collect items and use them to solve puzzles or progress in quests.
-- **Game Loop**: A text-based interface allows players to input commands and progress through the game.
-
-## Files:
-- **Character.cpp**: Implements the `Character` class, responsible for player attributes and actions.
-- **Room.cpp**: Implements the `Room` class, representing the different locations in the game.
-- **NPC.cpp**: Implements NPC behavior and interactions.
-- **main.cpp**: The entry point that runs the game loop and handles user input.
-
-## Requirements:
-- C++11 or later
-- A C++ compiler (e.g., g++)
-
-## How to Run:
-1. Clone the repository to your local machine:
-    ```
-    git clone https://github.com/yourusername/GameOfCharacterAndAdventure.git
-    ```
-2. Navigate to the project directory:
-    ```
-    cd GameOfCharacterAndAdventure
-    ```
-3. Compile the code:
-    ```
-    g++ main.cpp Character.cpp Room.cpp NPC.cpp -o game
-    ```
-4. Run the game:
-    ```
-    ./game
-    ```
-
-## Example Gameplay:
+## Files
+- **Character.h / Character.cpp**: Defines the base character class with common properties and methods.
+- **Rogue.h / Rogue.cpp**: Derived from `Character`, represents a Rogue character with unique abilities.
+- **Knight.h / Knight.cpp**: Derived from `Character`, represents a Knight character with special traits.
+- **Wizard.h / Wizard.cpp**: Derived from `Character`, represents a Wizard with magical abilities.
+- **Monster.h / Monster.cpp**: Defines the Monster class, representing hostile creatures in the game.
+- **Character.driver**: Main driver file that runs the game loop, handling player input, and simulating the gameplay.
