@@ -1,0 +1,649 @@
+OUTPUT 1: Character is a Knight
+Choose character type (Enter 1 for Knight, 2 for Wizard, 3 for Rogue): 1
+Enter character name: Thao
+Enter character starting experience points: 200
+Enter character starting hit points: 200
+Enter monster name: Bob
+Enter monster starting experience points: 100
+Enter monster starting hit points: 100
+Enter experience point values for characters if monster defeated: 10
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster Bob attacks Thao for 5 damage!
+Remaining Health:   Thao's remaining health: 66%
+Action:             Thao attacks Bob for 10 damage!
+Remaining Health:   Monster Bob's remaining health: 60%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster Bob attacks Thao for 5 damage!
+Remaining Health:   Thao's remaining health: 65.3333%
+Action:             Thao attacks Bob for 10 damage!
+Remaining Health:   Monster Bob's remaining health: 53.3333%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster Bob attacks Thao for 5 damage!
+Remaining Health:   Thao's remaining health: 64.6667%
+Action:             Thao attacks Bob for 10 damage!
+Remaining Health:   Monster Bob's remaining health: 46.6667%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster Bob attacks Thao for 5 damage!
+Remaining Health:   Thao's remaining health: 64%
+Action:             Thao attacks Bob for 10 damage!
+Remaining Health:   Monster Bob's remaining health: 40%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 2
+
+Character Statistics:
+Name:               Thao
+Level:              2
+Health:             64%
+Max Hit Points:     300
+Status:             Alive
+
+Monster Statistics:
+Name:               Bob
+Level:              1
+Health:             40%
+Max Hit Points:     150
+Status:             Alive
+Do you want to heal Thao? (y/n): y
+How much heal points for? 100
+Thao has been healed by 100 points!
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster Bob attacks Thao for 5 damage!
+Remaining Health:   Thao's remaining health: 96.6667%
+Action:             Thao attacks Bob for 10 damage!
+Remaining Health:   Monster Bob's remaining health: 33.3333%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster Bob attacks Thao for 5 damage!
+Remaining Health:   Thao's remaining health: 96%
+Action:             Thao attacks Bob for 10 damage!
+Remaining Health:   Monster Bob's remaining health: 26.6667%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster Bob attacks Thao for 5 damage!
+Remaining Health:   Thao's remaining health: 95.3333%
+Action:             Thao attacks Bob for 10 damage!
+Remaining Health:   Monster Bob's remaining health: 20%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster Bob attacks Thao for 5 damage!
+Remaining Health:   Thao's remaining health: 94.6667%
+Action:             Thao attacks Bob for 10 damage!
+Remaining Health:   Monster Bob's remaining health: 13.3333%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 2
+
+Character Statistics:
+Name:               Thao
+Level:              2
+Health:             94.6667%
+Max Hit Points:     300
+Status:             Alive
+
+Monster Statistics:
+Name:               Bob
+Level:              1
+Health:             13.3333%
+Max Hit Points:     150
+Status:             Alive
+Do you want to heal Thao? (y/n): n
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster Bob attacks Thao for 5 damage!
+Remaining Health:   Thao's remaining health: 94%
+Action:             Thao attacks Bob for 10 damage!
+Remaining Health:   Monster Bob's remaining health: 6.66667%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster Bob attacks Thao for 5 damage!
+Remaining Health:   Thao's remaining health: 93.3333%
+Action:             Thao attacks Bob for 10 damage!
+Remaining Health:   Monster Bob's remaining health: 0%
+Defeated:           The monster Bob has been defeated!
+Experience Gained:  Thao gains 10 experience points!
+The monster Bob has been defeated!
+
+OUTPUT 2: Character is a Wizard
+Choose character type (Enter 1 for Knight, 2 for Wizard, 3 for Rogue): 2
+Enter character name: Linh
+Enter character starting experience points: 200
+Enter character starting hit points: 200
+Enter starting mana points: 200
+Enter monster name: 
+lily
+Enter monster starting experience points: 0
+Enter monster starting hit points: 100
+Enter experience point values for characters if monster defeated: 10
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster lily attacks Linh for 0 damage!
+Remaining Health:   Linh's remaining health: 66.6667%
+Action:             Linh attacks lily for 40 damage!
+Remaining Health:   Monster lily's remaining health: 0%
+Defeated:           The monster lily has been defeated!
+Experience Gained:  Linh gains 10 experience points!
+The monster lily has been defeated!
+
+
+
+OUTPUT 3: Character is a Rogue
+Choose character type (Enter 1 for Knight, 2 for Wizard, 3 for Rogue): 3
+Enter character name: Linh
+Enter character starting experience points: 300
+Enter character starting hit points: 300
+Enter monster name: JJJ
+Enter monster starting experience points: 300
+Enter monster starting hit points: 500
+Enter experience point values for characters if monster defeated: 200
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 63.3333%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 107.778%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 60%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 104.444%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 2
+
+Character Statistics:
+Name:               Linh
+Level:              3
+Health:             60%
+Max Hit Points:     450
+Status:             Alive
+
+Monster Statistics:
+Name:               JJJ
+Level:              3
+Health:             104.444%
+Max Hit Points:     450
+Status:             Alive
+Do you want to heal Linh? (y/n): y
+How much heal points for? 100
+Linh has been healed by 100 points!
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 78.8889%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 101.111%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 2
+
+Character Statistics:
+Name:               Linh
+Level:              3
+Health:             78.8889%
+Max Hit Points:     450
+Status:             Alive
+
+Monster Statistics:
+Name:               JJJ
+Level:              3
+Health:             101.111%
+Max Hit Points:     450
+Status:             Alive
+Do you want to heal Linh? (y/n): y
+How much heal points for? 500
+Linh has been healed by 500 points!
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 96.6667%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 97.7778%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 2
+
+Character Statistics:
+Name:               Linh
+Level:              3
+Health:             96.6667%
+Max Hit Points:     450
+Status:             Alive
+
+Monster Statistics:
+Name:               JJJ
+Level:              3
+Health:             97.7778%
+Max Hit Points:     450
+Status:             Alive
+Do you want to heal Linh? (y/n): y
+How much heal points for? 200
+Linh has been healed by 200 points!
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 96.6667%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 94.4444%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 93.3333%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 91.1111%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 90%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 87.7778%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 86.6667%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 84.4444%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 83.3333%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 81.1111%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 80%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 77.7778%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 76.6667%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 74.4444%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 73.3333%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 71.1111%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 70%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 67.7778%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 66.6667%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 64.4444%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 63.3333%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 61.1111%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 60%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 57.7778%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 56.6667%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 54.4444%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 53.3333%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 51.1111%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 50%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 47.7778%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 46.6667%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 44.4444%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 43.3333%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 41.1111%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 40%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 37.7778%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 2
+
+Character Statistics:
+Name:               Linh
+Level:              3
+Health:             40%
+Max Hit Points:     450
+Status:             Alive
+
+Monster Statistics:
+Name:               JJJ
+Level:              3
+Health:             37.7778%
+Max Hit Points:     450
+Status:             Alive
+Do you want to heal Linh? (y/n): n
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 36.6667%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 34.4444%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 33.3333%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 31.1111%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 30%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 27.7778%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 26.6667%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 24.4444%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 23.3333%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 21.1111%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 20%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 17.7778%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 16.6667%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 14.4444%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 13.3333%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 11.1111%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 10%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 7.77778%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 6.66667%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 4.44444%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 3.33333%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 1.11111%
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 2
+
+Character Statistics:
+Name:               Linh
+Level:              3
+Health:             3.33333%
+Max Hit Points:     450
+Status:             Alive
+
+Monster Statistics:
+Name:               JJJ
+Level:              3
+Health:             1.11111%
+Max Hit Points:     450
+Status:             Alive
+Do you want to heal Linh? (y/n): y
+How much heal points for? 200
+Linh has been healed by 200 points!
+
+Menu Options:
+1. Attack the Monster
+2. Show Character Stats
+3. Exit
+Enter your choice: 1
+Action:             Monster JJJ attacks Linh for 15 damage!
+Remaining Health:   Linh's remaining health: 44.4444%
+Action:             Linh attacks JJJ for 15 damage!
+Remaining Health:   Monster JJJ's remaining health: 0%
+Defeated:           The monster JJJ has been defeated!
+Experience Gained:  Linh gains 200 experience points!
+The monster JJJ has been defeated!
