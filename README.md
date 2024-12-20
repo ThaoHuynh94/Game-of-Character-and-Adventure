@@ -16,3 +16,4 @@ This project is a simple text-based adventure game implemented in C++. Players c
 - **Wizard.h / Wizard.cpp**: Derived from `Character`, represents a Wizard with magical abilities.
 - **Monster.h / Monster.cpp**: Defines the Monster class, representing hostile creatures in the game.
 - **Character.driver**: Main driver file that runs the game loop, handling player input, and simulating the gameplay.
+<img width="1590" alt="image" src="https://github.com/user-attachments/assets/9dbcd6e3-b374-4a0e-b014-1a0dc1377463" />
