@@ -1,4 +1,4 @@
-# Game of Character and Adventure
+# Legendary Encounters
 
 This C++ project features a text-based RPG where players engage with classes like Rogue, Knight, Wizard, and Monster. With quests, combat, and unique abilities, the game showcases OOP principles like inheritance and polymorphism, providing an engaging and modular design.
 
