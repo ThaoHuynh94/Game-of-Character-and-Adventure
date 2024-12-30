@@ -1,6 +1,6 @@
 # Game of Character and Adventure
 
-This project is a simple text-based adventure game implemented in C++. Players control a character that can explore various locations, interact with NPCs (non-player characters), and complete quests. The game showcases core object-oriented programming (OOP) principles such as inheritance, polymorphism, and encapsulation.
+This C++ project features a text-based RPG where players engage with classes like Rogue, Knight, Wizard, and Monster. With quests, combat, and unique abilities, the game showcases OOP principles like inheritance and polymorphism, providing an engaging and modular design.
 
 ## Features
 - **Character Class**: The base class for creating player and NPC characters.
